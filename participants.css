@@ -1,0 +1,17 @@
+#tree{
+    display:table;
+    width:100%;
+    vertical-align:middle;
+  }
+  
+.level{
+    display:table-cell;
+    width:10%;
+    vertical-align:middle;
+    
+}
+
+.item p {
+    font-size: 12px;
+    text-align: center;
+}
